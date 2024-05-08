@@ -23,4 +23,11 @@
  - PDF Locker
  - Username Finder
  - Wordlist Generator
+
+## Install & Run Scripts
+
+ 1. Install requirements
+
+> pip install -r requirements.txt
+
 ###
