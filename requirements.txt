@@ -1,0 +1,6 @@
+pip install dnspython
+pip install Faker
+pip install PyPDF2
+pip install colorama
+pip install paramiko
+pip install pillow
