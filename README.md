@@ -12,7 +12,9 @@
 
 ###
 
-<p align="left">A new version of Hugs For Bugs, a new set of widely used and creative Python scripts to speed up the work process of programmers and penetration testers.<br><br>Hugs Four Bugs includes version 1, which you can access from this link<br><br>Get Hugs For Bugs V1<br><br>This project will expand over time and many updates will be released that include more tools<br><br>This version contains 7 Hugs For Bugs exclusive tools that can be useful for internet users<br><br>I hope it is useful, we can work on this project again whether we support or not :)</p>
+<p align="left">A new version of Hugs For Bugs, a new set of widely used and creative Python scripts to speed up the work process of programmers and penetration testers.<br><br>Hugs Four Bugs includes version 1, which you can access from this link<br><br>This project will expand over time and many updates will be released that include more tools<br><br>This version contains 7 Hugs For Bugs exclusive tools that can be useful for internet users<br><br>I hope it is useful, we can work on this project again whether we support or not :)</p>
+
+[HugsForBugs V1](https://zil.ink/d3f417) 
 
 <h2 align="left">HFB Tools List</h2>
 
