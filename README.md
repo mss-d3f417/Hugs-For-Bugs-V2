@@ -112,4 +112,20 @@
  2. How To Use ?
 
  > Just enter the desired username and finally the name of the file you want to save :))
+
+<h2 align="left">6 - Wordlist Generator</h2>
+
+###
+
+<div align="center">
+  <img height="" src="https://s8.uupload.ir/files/record_2024_05_09_01_42_10_795_paz.gif"  />
+</div>
+
+ 1. Run The Script 🥷
+
+> python (HFB)wordlist_generator.py
+
+ 2. How To Use ?
+
+ > usage: (HFB)wordlist_generator.py -h -c CHARACTERS -min MIN_LENGTH -max MAX_LENGTH -o OUTPUT_FILE :))
 ###
