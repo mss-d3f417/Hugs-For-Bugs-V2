@@ -1,8 +1,11 @@
 # Hugs-For-Bugs-V2
 Hugs For Bugs V2
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="600" src="https://s8.uupload.ir/files/hugs_for_bugs_ze8q.png"  />
 </div>
 
+###
 ###
