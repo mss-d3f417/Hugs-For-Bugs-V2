@@ -64,7 +64,7 @@
 
 > python (HFB)Fake_user_data.py
 
- 4. How To Use ?
+ 2. How To Use ?
 
  > First, enter the number of users, second, choose whether to save or not, third, the format you want to save, and finally, that's it.  :))
 
@@ -79,7 +79,7 @@
 
 > python (HFB)MetaData_Extractor.py
 
- 4. How To Use ?
+ 2. How To Use ?
 
  > Just give the path of your photo file .  :))
 
@@ -93,7 +93,23 @@
 
 > python (HFB)PDF_Locker.py
 
- 4. How To Use ?
+ 2. How To Use ?
 
  > All you have to do is first give the path of your file and secondly enter the password you want :))
+
+<h2 align="left">5 - Username Finder</h2>
+
+###
+
+<div align="center">
+  <img height="" src="https://s8.uupload.ir/files/record_2024_05_09_01_41_06_686_cgxa.gif"  />
+</div>
+
+ 1. Run The Script 🥷
+
+> python (HFB)username_finder.py
+
+ 2. How To Use ?
+
+ > Just enter the desired username and finally the name of the file you want to save :))
 ###
