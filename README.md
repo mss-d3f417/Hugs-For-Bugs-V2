@@ -136,7 +136,9 @@
 
 ###
 
-<img align="right" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="800" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 
