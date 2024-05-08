@@ -60,4 +60,26 @@
   <img height="" src="https://s8.uupload.ir/files/screenshot_2024-05-09_022922_c0ny.png"  />
 </div>
 
+ 1. Run The Script 🥷
+
+> python (HFB)Fake_user_data.py
+
+ 4. How To Use ?
+
+ > First, enter the number of users, second, choose whether to save or not, third, the format you want to save, and finally, that's it.  :))
+
+
+<h2 align="left">3 - MetaData Extractor</h2>
+
+<div align="center">
+  <img height="" src="https://s8.uupload.ir/files/record_2024_05_09_01_38_57_603_yn3n.gif"  />
+</div>
+
+ 1. Run The Script 🥷
+
+> python (HFB)MetaData_Extractor.py
+
+ 4. How To Use ?
+
+ > Just give the path of your photo file .  :))
 ###
