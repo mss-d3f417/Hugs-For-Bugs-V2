@@ -82,4 +82,18 @@
  4. How To Use ?
 
  > Just give the path of your photo file .  :))
+
+<h2 align="left">4 - PDF Locker</h2>
+
+<div align="center">
+  <img height="" src="https://s8.uupload.ir/files/record_2024_05_09_01_40_42_451_uus.gif"  />
+</div>
+
+ 1. Run The Script 🥷
+
+> python (HFB)PDF_Locker.py
+
+ 4. How To Use ?
+
+ > All you have to do is first give the path of your file and secondly enter the password you want :))
 ###
