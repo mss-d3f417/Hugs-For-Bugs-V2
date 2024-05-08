@@ -30,4 +30,12 @@
 
 > pip install -r requirements.txt
 
+<h2 align="left">1 - Dns Scanner</h2>
+
+###
+
+<div align="center">
+  <img height="" src="https://s8.uupload.ir/files/record_2024_05_09_01_37_22_383_cdo9.gif"  />
+</div>
+
 ###
