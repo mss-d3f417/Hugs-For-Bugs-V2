@@ -38,4 +38,12 @@
   <img height="" src="https://s8.uupload.ir/files/record_2024_05_09_01_37_22_383_cdo9.gif"  />
 </div>
 
+ 1. Run The Script 🥷
+
+> python (HFB)Dns_Scanner.py
+
+ 2. How To Use ?
+
+ > Just Enter WebSite Link  :))
+
 ###
